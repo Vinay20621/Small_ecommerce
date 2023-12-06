@@ -1,0 +1,25 @@
+.my-color
+{
+   
+   background-color: rgb(72, 69, 57)
+}
+.my-boarder
+{
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    
+}
+.bb
+{
+    
+    background-color: rgb(163, 151, 111)
+}
+.footer-color
+{
+    background-color: rgb(72, 69, 57)
+}
+.hero
+{
+    /* background-color: rgb(72, 69, 57) */
+    background-color: rgb(109, 104, 87);
+}
